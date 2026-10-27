@@ -47,6 +47,11 @@ e.g. https://assets.lime.online/thumbnails/sales.png
 
 Images and the solar/battery storage guide PDF used by the solar email sequence.
 
+## Kixie PowerCall Storage Cleaner — `kixie-storage-cleaner/`
+
+`privacy.html` is the privacy policy linked from the extension's Chrome Web Store listing:
+https://assets.lime.online/kixie-storage-cleaner/privacy.html. Google checks this URL, so don't move or delete it.
+
 ## Using these in email HTML
 
 Always pin an explicit width, or Outlook will render the image at its full pixel size:
